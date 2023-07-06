@@ -1,0 +1,69 @@
+{
+  "fullname": "Raymark L. Cruz",
+  "course": "BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY",
+  "userPicture": "raymarkPhoto.jpeg",
+  "profileDescription": "I am skilled in multiple programming  languages and have a deep  understanding of software  development principles. I have  experience in creating efficient and  effective code for various platforms,  including desktop and web  applications. I am a critical thinker and  problem-solver, with the ability to  analyze complex systems and break  them down into smaller, manageable  parts. I am willing to learn and  contribute.",
+  "phone": "09268403799",
+  "email": "cruzraymark16@gmail.com",
+  "skills": [
+    "Knowledge of coding languages  (e.g.Python,PHP, JavaScript, HTML,  CSS, TypeScript)",
+    "Frameworks/systems(e.g ReactJs,  React Native, ExpressJs, NodeJs,  ReduxJs, Git)",
+    "Experience with databses (e.g  MYSQL & MongoDb)",
+    "Familiarity with MVC pattern in  software design"
+  ],
+  "strengths": ["A strong work ethic", "Passionate", "Willing to learn"],
+  "education": [
+    {
+      "school": "First City Providential College",
+      "yearRange": "2019-2023"
+    },
+    {
+      "school": "Bulacan State University",
+      "yearRange": "2018-2019"
+    },
+    {
+      "school": "First City Providential College",
+      "yearRange": "2016-2018"
+    },
+    {
+      "school": "Genesis Christian Academy",
+      "yearRange": "2006-2016"
+    }
+  ],
+  "workExperience": [
+    {
+      "company": "First City Providential College",
+      "jobTitle": "Software/Web Developer Intern",
+      "jobDate": "March 2023-June 2023",
+      "jobResponsibilities": [
+        "Work with developers to design algorithms",
+        "Produce clean, efficient code based on specifications",
+        "Troubleshoot, debug and upgrade existing software",
+        "Recommend and execute improvements"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "certificationTitle": "CCNA: CISCO CERTIFIED NETWORK ASSOCIATE",
+      "certificationRange": "December 2022-December 2025"
+    },
+    {
+      "certificationTitle": "CCNAv7: Enterprise Networking, Security, and Automation",
+      "certificationRange": ""
+    },
+    {
+      "certificationTitle": "CCNAv7: Switching, Routing, and Wireless Essentials",
+      "certificationRange": ""
+    }
+  ],
+  "characterReferences": [
+    {
+      "characterName": "Rendel G. Francisco",
+      "characterTitle": "ICT Coordinator",
+      "characterCompany": "FCPC",
+      "characterPhone": "09477805004",
+      "characterEmail": "rendel.francisco@gmail.com"
+    }
+  ]
+}
